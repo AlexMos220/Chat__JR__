@@ -8,7 +8,8 @@ import task3008.MessageType;
 import java.io.IOException;
 import java.net.Socket;
 
-// localhost/////////////////////////////////////////
+// если на локальном компе - localhost//////////////////////////////////////
+
 
 public class Client {
 
